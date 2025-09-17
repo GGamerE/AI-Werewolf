@@ -3,7 +3,7 @@
     "host": "0.0.0.0"
   },
   "ai": {
-    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "model": "google/gemini-2.5-flash",
     "maxTokens": 150,
     "temperature": 0.8,
     "provider": "openrouter"
